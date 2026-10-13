@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-community
+pypdf
+duckduckgo-search
+langchain_classic
