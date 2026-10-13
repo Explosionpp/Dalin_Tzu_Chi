@@ -1,8 +1,10 @@
 streamlit
 langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-text-splitters
 langchain-google-genai
 langchain-chroma
-langchain-community
 pypdf
-duckduckgo-search
-langchain_classic
+ddgs
